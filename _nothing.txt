@@ -1,0 +1,8 @@
+A name, a pass, a secret key,
+Alone they’re weak, but strong as three.
+No gaps, no spaces, keep it tight,
+Combine them all to see the light.
+The key's disguise is Base64,
+Decode it first, then join the lore.
+When all are one, the bits align,
+Think bitwise, and you'll read the sign.
