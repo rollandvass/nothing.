@@ -1,11 +1,13 @@
 LjgzCzcKQXsoLkdbMx5aJRE7PQFxEFwoEBQ=
+https://linktr.ee/rollandvass
 
-Step one: find the profile where my professional network gleams,
+Key part one: find the profile where my professional network gleams,
 Copy the full address, every slash and all it seems.
 
-https://rollandvass.github.io/
-Step two: see where robots are told to stay,
+Key part two: see where my robots are told to stay,
 A secret path awaits if you look the right way.
 
-Step three: run the XOR with the key you hold,
+Key part three: run the XOR with the key you already hold.
+
+In the end,
 Combine them all, and watch the flag unfold.
